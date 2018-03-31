@@ -49,7 +49,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Início",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
